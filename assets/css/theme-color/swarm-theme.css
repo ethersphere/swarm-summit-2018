@@ -39,7 +39,7 @@ Author URI : http://www.markups.io/
 
 .mu-speakers-slider .slick-next,
 .mu-speakers-slider .slick-prev,
-#mu-venue,
+/* #mu-venue, */
 .mu-popular-price .mu-price-tag,
 .mu-navbar .navbar-toggle,
 .mu-navbar .navbar-toggle:hover,
@@ -84,4 +84,12 @@ Author URI : http://www.markups.io/
 .mu-reg-submit-btn:focus {
 	background-color: #F7A000;
 	border: 2px solid #F7A000;
+}
+
+.video-row {
+	text-align: center;
+}
+
+.video-cell {
+	padding: 30px 0px;
 }
