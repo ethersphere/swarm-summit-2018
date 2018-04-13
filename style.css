@@ -443,6 +443,15 @@ button:focus {
 	width: 100%;
 }
 
+.registration-link-top a {
+	color: white;
+}
+
+.registration-link-top a:hover {
+	color: darkblue;
+}
+
+
 
 
 /*--------------------*/
