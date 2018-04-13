@@ -312,7 +312,6 @@ button:focus {
 }
 
 .mu-event-date-line {
-	background-color: #fff;
 	color: #333;
 	padding: 5px 10px;
 	display: inline-block;
@@ -444,11 +443,30 @@ button:focus {
 }
 
 .registration-link-top a {
+	background-color: #fff;
+	color: #333;
+	padding: 5px 10px;
+	display: inline-block;
+	/* margin-top: 10px; */
+	font-weight: 600;
+	
+	background-color: orange;
+	/* width: auto; */
+	/* display: block;
+	 float: left;  */
+	text-align: center;
+}
+
+.registration-link-top :hover  {
+	background-color: white;
+}
+
+.registration-link-top :hover a {
 	color: white;
 }
 
 .registration-link-top a:hover {
-	color: darkblue;
+	color: orange;
 }
 
 
