@@ -1173,7 +1173,9 @@ background-position: center center;
 	width: 100%;
 }
 .mu-sponsors-content div div p img {
+	margin-top: 30px;
 	max-width: 300px;
+	max-height: 100px;
 }
 
 
@@ -1859,3 +1861,10 @@ background-position: center center;
 	
 }
 
+
+
+.vcenter {
+    /* display: inline-block; */
+    vertical-align: middle;
+    /* float: none; */
+}
